@@ -15,4 +15,12 @@ public class seleniumTest {
 	{
 		System.out.println("elementsUi");
 	}
+	
+	@Test
+	public void elementsUi123()
+	{
+		System.out.println("elementsUi1");
+		System.out.println("elementsUi2");
+		System.out.println("elementsUi3");
+	}
 }
